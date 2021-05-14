@@ -33,8 +33,8 @@ async def oynat(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="Kanal Mp3 🎶",
-                        url="https://t.me/kanalEfsanestar")
+                        text="Müzik Kanalı 🎶",
+                        url="https://t.me/bizbizemuzik")
                    
                 ]
             ]
